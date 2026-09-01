@@ -1,5 +1,4 @@
 # IT301-Labs-and-projects
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
